@@ -1,0 +1,15 @@
+.table {
+  width: 400px;
+}
+
+.table-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.total-section {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}
