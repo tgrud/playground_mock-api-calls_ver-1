@@ -1,4 +1,3 @@
-import "./styles.css"
 import TableRows from "./TableRows"
 import React, { useState } from "react"
 
